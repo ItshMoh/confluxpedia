@@ -1,7 +1,7 @@
 # Dependencies
 node_modules/
 newui.js
-plan.md
+plan1.md
 # Environment variables (contains secrets!)
 .env
 .env.local
